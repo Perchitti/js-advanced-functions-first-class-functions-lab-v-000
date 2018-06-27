@@ -5,5 +5,5 @@ const returnFirstTwoDrivers = function (drivers) {
 }
 
 const returnLastTwoDrivers = function (drivers) {
-  return [drivers[-2], driver[-1]];
+  return [drivers[-2], drivers[-1]];
 }
