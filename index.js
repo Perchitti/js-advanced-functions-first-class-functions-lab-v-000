@@ -17,5 +17,3 @@ return function (num) {
 }
 
 const fareDoubler = createFareMultiplier(2);
-
-}
